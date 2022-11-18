@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T11:05:49.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4KCsXQtiNLLkDz6-wWro" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T11:06:20.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="teu8vW0ifDMagDLZrlfr" version="20.5.3" type="github">
   <diagram id="LN0oFP6bAuvTAHE3V0GF" name="Page-1">
     <mxGraphModel dx="2062" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,10 +63,10 @@
         <mxCell id="jnsRYMcWNIXzNaJrF18P-24" value="App" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="320" width="140" height="156" as="geometry" />
         </mxCell>
-        <mxCell id="jnsRYMcWNIXzNaJrF18P-25" value="Database Catigory" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="jnsRYMcWNIXzNaJrF18P-24" vertex="1">
+        <mxCell id="mqjk-lBEZVcN8gIPO9l--1" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: initial; --darkreader-inline-bgcolor: initial;&quot;&gt;Language Settings&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jnsRYMcWNIXzNaJrF18P-24">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mqjk-lBEZVcN8gIPO9l--1" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: initial; --darkreader-inline-bgcolor: initial;&quot;&gt;Language Settings&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jnsRYMcWNIXzNaJrF18P-24">
+        <mxCell id="jnsRYMcWNIXzNaJrF18P-25" value="Database Catigory" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="jnsRYMcWNIXzNaJrF18P-24" vertex="1">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jnsRYMcWNIXzNaJrF18P-27" value="Cache Clear" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="jnsRYMcWNIXzNaJrF18P-24" vertex="1">
