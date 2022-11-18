@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T11:04:25.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4liw83_jW1354lREqeZU" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T11:05:49.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4KCsXQtiNLLkDz6-wWro" version="20.5.3" type="github">
   <diagram id="LN0oFP6bAuvTAHE3V0GF" name="Page-1">
     <mxGraphModel dx="2062" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
         <mxCell id="jnsRYMcWNIXzNaJrF18P-25" value="Database Catigory" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="jnsRYMcWNIXzNaJrF18P-24" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mqjk-lBEZVcN8gIPO9l--1" value="&lt;span style=&quot;text-align: center;&quot;&gt;Translate&amp;nbsp; Seting&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jnsRYMcWNIXzNaJrF18P-24">
+        <mxCell id="mqjk-lBEZVcN8gIPO9l--1" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: initial; --darkreader-inline-bgcolor: initial;&quot;&gt;Language Settings&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jnsRYMcWNIXzNaJrF18P-24">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jnsRYMcWNIXzNaJrF18P-27" value="Cache Clear" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="jnsRYMcWNIXzNaJrF18P-24" vertex="1">
